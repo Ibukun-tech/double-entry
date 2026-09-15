@@ -1,0 +1,18 @@
+
+# Output of the go coverage tool
+*.out
+
+# Go workspace file
+go.work
+
+# Compiled binaries
+ledger
+ledger.exe
+*.exe
+*.exe*
+.env
+DEPLOYMENT_CHECKLIST.md
+scripts*
+.local*
+bin*
+*sh
